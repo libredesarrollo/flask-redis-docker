@@ -1,0 +1,5 @@
+services:
+  redis:
+    image: "redis:alpine"
+
+# imagen de redis en un archivo aparte
