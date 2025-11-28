@@ -45,3 +45,7 @@ Deberías ver un mensaje que dice "Esta página ha sido visitada X veces.", dond
 ├── requirements.txt      # Dependencias de Python
 └── docker-compose.yaml   # Orquestación de los contenedores
 ```
+
+
+Curso de Docker para Desarrolladores:
+https://www.desarrollolibre.net/blog/docker/guia-para-principiantes-para-docker#heading-23
